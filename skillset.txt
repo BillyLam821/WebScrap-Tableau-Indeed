@@ -1,0 +1,159 @@
+javascript
+html
+css
+sql
+python
+typescript
+java
+bash
+c#
+c\+\+
+php
+powershell
+go
+rust
+kotlin
+dart
+ruby
+assembly
+swift
+r
+vba
+matlab
+lua
+groovy
+delphi
+scala
+objective-c
+perl
+haskell
+elixir
+julia
+clojure
+solidity
+lisp
+f#
+fortran
+erlang
+apl
+cobol
+sas
+ocaml
+crystal
+dynamodb
+couchbase
+cassandra
+neo4j
+elasticsearch
+redis
+ibm db2
+couchdb
+postgresql
+microsoft sql server
+sqlite
+oracle
+mongodb
+firestore
+mariadb
+mysql
+firebase
+colocation
+aws
+ibm cloud
+linode
+azure
+gcp
+openstack
+google cloud
+digitalocean
+vmware
+managed hosting
+oracle cloud infrastructure
+heroku
+ovh
+phoenix
+ruby on rails
+play framework
+deno
+gatsby
+svelte
+asp
+blazor
+react
+fastapi
+drupal
+flask
+node
+angular
+next
+fastify
+vue
+django
+express
+jquery
+symfony
+nuxt
+laravel
+spark
+kafka
+flink
+storm
+airflow
+dbt
+hadoop
+tidyverse
+net
+hugging face transformers
+uno platform
+pandas
+numpy
+pytorch
+spring
+electron
+scikit-learn
+xamarin
+gtk
+tensorflow
+keras
+react native
+capacitor
+cordova
+ionic
+flutter
+terraform
+puppet
+homebrew
+kubernetes
+ansible
+docker
+yarn
+npm
+unreal engine
+unity
+git
+github
+bitbucket
+tableau
+power bi
+snowflake
+delta
+stitch
+looker
+redshift
+bigquery
+synapse
+hive
+presto
+fivetran
+databricks
+teradata
+informatica
+cloudera
+grafana
+jenkins
+excel
+linux
+collibra
+ssis
+google analytics
+adobe analytics
